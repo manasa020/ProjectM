@@ -29,8 +29,7 @@ This is a web based application developed for a restaurant named PARADISE.
 ### Menu Page -![Screenshot 2023-07-29 132855](https://github.com/pranay020/project2/assets/140306607/6c8585f1-56c5-4099-8c90-e48e9814d588)
 
 
-### About Us Page -![Screenshot 2023-07-29 132630](https://github.com/pranay020/project2/assets/140306607/d954607a-7a4b-48a6-8c9a-e7f6ebb74d2d)
-
+### About Us Page -![Screenshot 2023-08-09 144107](https://github.com/manasa020/ProjectM/assets/141817277/c5eb1b69-ca22-402d-93a6-1d8d8348e1a9)
 
 
 ## Tech Stack 💻

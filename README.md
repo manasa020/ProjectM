@@ -7,6 +7,8 @@ This is a web based application developed for a restaurant named PARADISE.
 
 **Project Link** -https://black-island-09a648010.3.azurestaticapps.net/
 
+**Github link**-https://github.com/manasa020/ProjectM/tree/main
+
 ## Features and Functionalities 😃
 
 - Interactive and responsive UI.
